@@ -13,11 +13,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <h2>Configuration Steps</h2>
 
-<img width="1682" alt="Screen Shot 2024-05-19 at 11 33 31 AM" src="https://github.com/DereHz/post-install-config/assets/169094076/c92ed798-f69c-4cff-aabf-019666231ec2">
+![Screenshot 2024-09-03 at 8 25 32 PM](https://github.com/user-attachments/assets/c05243db-8fb7-4e15-b853-280395399d7d)
 
 Step 1. Configure Roles
  - Admin Panel -> Agents -> Roles -> Add New role
@@ -26,7 +26,7 @@ Step 1. Configure Roles
  - Click Add Role
 
 
-<img width="1686" alt="Screen Shot 2024-05-19 at 11 42 01 AM" src="https://github.com/DereHz/post-install-config/assets/169094076/61440146-9d35-41f2-943a-c03e9dc521f1">
+![Screenshot 2024-09-03 at 8 32 00 PM](https://github.com/user-attachments/assets/9cbf0557-4b47-4a99-85f8-8d9de92e76bc)
 
 Step 2. Configure Departments 
  - Admin Panel -> Agents -> Departments
@@ -34,7 +34,7 @@ Step 2. Configure Departments
  - Name it System Administrators
 
 
-<img width="1683" alt="Screen Shot 2024-05-19 at 11 50 22 AM" src="https://github.com/DereHz/post-install-config/assets/169094076/34509ae3-6de3-4f79-bed3-1ba2259ee902">
+![Screenshot 2024-09-03 at 8 32 45 PM](https://github.com/user-attachments/assets/e30f1713-1f21-4c63-a026-a1ceb9c84326)
 
 Step 3. Configure Teams
  - Admin Panel -> Agents -> Teams
@@ -43,30 +43,30 @@ Step 3. Configure Teams
 
 Note: There should be a "Level I Support" team already there
 
-<img width="1684" alt="Screen Shot 2024-05-19 at 11 58 21 AM" src="https://github.com/DereHz/post-install-config/assets/169094076/5ed0b17a-d3e4-469d-91fc-183460339c24">
+![Screenshot 2024-09-03 at 8 33 07 PM](https://github.com/user-attachments/assets/7de2bd9a-4e15-41fc-88ba-5e0e7fcdafe3)
 
 
 Step 4. Allow anyone to create tickets 
  - Admin Panel -> Settings -> User Settings
  - Make sure the "require registration and login to create tickets" box is unchecked
 
-<img width="1682" alt="Screen Shot 2024-05-19 at 12 10 45 PM" src="https://github.com/DereHz/post-install-config/assets/169094076/15ec0dc3-134f-4465-a6cc-3203d48d7220">
+![Screenshot 2024-09-03 at 8 43 31 PM](https://github.com/user-attachments/assets/1a44d09d-dc48-4450-bea7-2dd20f00bc02)
 
 Step 5. Configure Agents (Workers)
  - Admin Panel -> Agents -> Add New Agent
  - Jane Doe - username: Jane.doe, "Access" System Administrators and Superb Admin, "Teams" put on Team II
- - John Doe - username: John.doe, "Access" Support, View only
+ - James Doe - username: James.doe, "Access" Support, View only
 
 
-<img width="1682" alt="Screen Shot 2024-05-19 at 12 16 54 PM" src="https://github.com/DereHz/post-install-config/assets/169094076/0ef92a6d-851a-418f-9961-0f7d961090c6">
+![Screenshot 2024-09-03 at 8 46 09 PM](https://github.com/user-attachments/assets/a8cddb5d-f2db-44da-9348-a1c2519c388e)
 
 Step 6. Configure Users (Customers) 
  - Agent Panel -> Users -> Add New
- - Sarah Doe
- - Ken Doe
+ - Karen Karen
+ - Ken Ken
 
 
-<img width="1629" alt="Screen Shot 2024-05-19 at 12 23 22 PM" src="https://github.com/DereHz/post-install-config/assets/169094076/b200f14d-86f1-471a-a516-f542acb5308e">
+![Screenshot 2024-09-03 at 8 48 56 PM](https://github.com/user-attachments/assets/4193a12b-362a-4396-8beb-cbe7b23d18a7)
 
 
 Step 7. Configure SLA
@@ -76,7 +76,7 @@ Step 7. Configure SLA
  - Sev-C (8 hours, Business Hours)
 
 
-<img width="1639" alt="Screen Shot 2024-05-19 at 12 31 22 PM" src="https://github.com/DereHz/post-install-config/assets/169094076/671446f1-57d7-487c-a16d-731f0bcc6392">
+![Screenshot 2024-09-03 at 8 52 16 PM](https://github.com/user-attachments/assets/e9fb2ac8-9c1a-4bb2-a28e-2f6afb98f73f)
 
 Step 8. Configure Help Topics
  - Admin Panel -> Manage -> Help Topics
